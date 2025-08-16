@@ -1,7 +1,6 @@
 export default function CostSection() {
   const costs = [
     { value: '3', unit: 'hours', description: 'scanning headlines that don\'t matter' },
-    { value: '£4,000', unit: '', description: 'in subscriptions to tools you barely use' },
     { value: '5', unit: 'critical signals', description: 'you\'ll only discover next quarter' },
     { value: '1', unit: 'competitor', description: 'who somehow always knows first' },
   ]
@@ -20,8 +19,7 @@ export default function CostSection() {
           ))}
         </div>
         <p className="mt-12 text-xl text-amber-400">
-          The exhaustion isn't from the work.<br />
-          It's from the constant fear of being blindsided.
+          Every day you're late costs you credibility.
         </p>
       </div>
     </section>
