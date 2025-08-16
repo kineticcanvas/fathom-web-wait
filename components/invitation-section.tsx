@@ -4,7 +4,7 @@ import { ExternalLink } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export default function InvitationSection() {
-  const CAL_LINK = process.env.NEXT_PUBLIC_CAL_LINK || 'https://cal.tryfathom.ai/founder/discovery'
+  const CAL_LINK = process.env.NEXT_PUBLIC_CAL_LINK || 'https://cal.com/tryfathom/discovery'
 
   return (
     <section id="invitation" className="py-20 px-6 bg-slate-900 text-white">
