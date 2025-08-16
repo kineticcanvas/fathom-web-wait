@@ -2,7 +2,7 @@ import { Calendar, Mail, ExternalLink, AlertCircle } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export default function HeroSection() {
-  const CAL_LINK = process.env.NEXT_PUBLIC_CAL_LINK || 'https://cal.tryfathom.ai/founder/discovery'
+  const CAL_LINK = process.env.NEXT_PUBLIC_CAL_LINK || 'https://cal.com/tryfathom/discovery'
 
   return (
     <section className="pt-32 pb-20 px-6">
