@@ -4,7 +4,7 @@ import { ArrowLeft } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy - Fathom',
-  description: 'Privacy policy for Fathom Intelligence Ltd'
+  description: 'Privacy policy for Fathom, a product of Kinetic Canvas Digital LLC.'
 }
 
 export default function PrivacyPage() {
