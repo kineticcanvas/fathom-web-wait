@@ -4,6 +4,7 @@ import CostSection from '@/components/cost-section'
 import ValidationSection from '@/components/validation-section'
 import QuestionSection from '@/components/question-section'
 import InvitationSection from '@/components/invitation-section'
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   return (
