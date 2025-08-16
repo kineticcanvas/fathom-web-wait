@@ -4,7 +4,7 @@ import { ArrowLeft } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy - Fathom',
-  description: 'Privacy policy for Fathom, a product of Kinetic Canvas Digital LLC.'
+  description: 'Privacy policy for Fathom, a division of Kinetic Canvas Digital LLC.'
 }
 
 export default function PrivacyPage() {
@@ -26,9 +26,9 @@ export default function PrivacyPage() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Data Controller</h2>
             <p className="text-slate-700">
-              Fathom Intelligence Ltd<br />
+              Fathom, a division of Kinetic Canvas Digital LLC.<br />
               London, United Kingdom<br />
-              Contact: privacy@fathom.intelligence
+              Contact: privacy@tryfathom.ai
             </p>
           </section>
 
