@@ -27,6 +27,7 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-semibold mb-4">1. Data Controller</h2>
             <p className="text-slate-700">
               Fathom, a division of Kinetic Canvas Digital LLC.<br />
+              Atlanta, GA, United States<br />
               London, United Kingdom<br />
               Contact: privacy@tryfathom.ai
             </p>
@@ -128,8 +129,8 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-semibold mb-4">10. Contact & Complaints</h2>
             <p className="text-slate-700 mb-4">
               For any privacy concerns or to exercise your rights, contact us at:{' '}
-              <a href="mailto:privacy@fathom.intelligence" className="text-blue-600 hover:underline">
-                privacy@fathom.intelligence
+              <a href="mailto:privacy@tryfathom.ai" className="text-blue-600 hover:underline">
+                privacy@tryfathom.ai
               </a>
             </p>
             <p className="text-slate-700">
