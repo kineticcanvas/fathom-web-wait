@@ -42,8 +42,7 @@ export default function InvitationSection() {
         </div>
 
         <div className="text-center space-y-2 text-slate-400">
-          <p>We start building August 2025.</p>
-          <p>First access opens October 2025.</p>
+          <p>Shaping the solution with 50 founding advisors</p>
         </div>
       </div>
     </section>

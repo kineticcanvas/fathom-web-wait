@@ -15,13 +15,12 @@ export default function HeroSection() {
             Their industry regulations changed <span className="font-mono font-semibold text-cyan-600">yesterday</span>.
           </p>
           <p className="text-3xl md:text-4xl lg:text-5xl font-light text-slate-900 leading-tight">
-            You'll find out in <span className="font-mono font-semibold text-cyan-600">3 weeks</span>.
+            Your client already knows. <span className="font-mono font-semibold text-cyan-600">You don't.</span>.
           </p>
         </div>
 
         <p className="text-xl text-slate-700 mb-8 max-w-2xl">
-          We're building the intelligence layer that surfaces what's actually impacting your clients.
-          Every signal that creates an opportunity for conversation.
+          Every day you're late costs you credibility.
         </p>
 
         {/* Scarcity Alert */}
