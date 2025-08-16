@@ -21,6 +21,9 @@ export default function HeroSection() {
 
         <p className="text-xl text-slate-700 mb-8 max-w-2xl">
           Every day you're late costs you credibility.
+
+          We're building the intelligence layer that surfaces what's actually impacting your clients.
+          Every signal that creates an opportunity for conversation.
         </p>
 
         {/* Scarcity Alert */}
