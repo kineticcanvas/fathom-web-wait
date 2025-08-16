@@ -35,7 +35,7 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${jetbrainsMono.variable}`}>
       <head>
         {/* Plausible Analytics Script - Self-hosted */}
-        <script defer data-domain="tryfathom.ai" src="https://analytics.tryfathom.ai/js/script.js"></script>
+        {/* <script defer data-domain="tryfathom.ai" src="https://analytics.tryfathom.ai/js/script.js"></script> */}
         {/* Waitlister Script */}
         <Script src="https://waitlister.me/js/embed.js" strategy="afterInteractive" />
       </head>
