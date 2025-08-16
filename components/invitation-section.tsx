@@ -9,7 +9,7 @@ export default function InvitationSection() {
   return (
     <section id="invitation" className="py-20 px-6 bg-slate-900 text-white">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-3xl font-light mb-12">We're building with 50 founding advisors.</h2>
+        <h2 className="text-3xl font-light mb-12">We're building with 50 Founding Advisors.</h2>
 
         <div className="grid md:grid-cols-2 gap-8 mb-12">
           {/* Option 1 */}

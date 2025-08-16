@@ -20,7 +20,7 @@ export default function HeroSection() {
         </div>
 
         <p className="text-xl text-slate-700 mb-8 max-w-2xl">
-          We're building the intelligence layer that surfaces what's actually impacting your clients.
+          We're building the intelligence layer that surfaces what's actually impacting your clients.<br></br>
           Every signal that creates an opportunity for conversation.
         </p>
 
