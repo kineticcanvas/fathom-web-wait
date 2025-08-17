@@ -42,7 +42,7 @@ export default function InvitationSection() {
         </div>
 
         <div className="text-center space-y-2 text-slate-400">
-          \* <p>Shaping the solution with 25 founding advisors</p> *\
+          <p>Shaping the solution with 25 founding advisors</p>
         </div>
       </div>
     </section>
