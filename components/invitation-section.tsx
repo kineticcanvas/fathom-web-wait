@@ -9,7 +9,7 @@ export default function InvitationSection() {
   return (
     <section id="invitation" className="py-20 px-6 bg-slate-900 text-white">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-3xl font-light mb-12">We're building with 50 Founding Advisors.</h2>
+        <h2 className="text-3xl font-light mb-12">We're building with 25 Founding Advisors.</h2>
 
         <div className="grid md:grid-cols-2 gap-8 mb-12">
           {/* Option 1 */}
@@ -25,24 +25,24 @@ export default function InvitationSection() {
                 <ExternalLink className="w-4 h-4 ml-2 opacity-50" />
               </a>
             </Button>
-            <p className="text-sm text-slate-400 mt-4">Only 50 founding advisor spots</p>
+            <p className="text-sm text-slate-400 mt-4">Only 25 founding advisor spots</p>
           </div>
 
           {/* Option 2 */}
           <div className="p-8 bg-slate-800 rounded-xl">
             <h3 className="text-xl font-semibold mb-4 text-amber-400">Option 2: Secure Early Access</h3>
             <p className="text-slate-300 mb-6">
-              Be among the first 500 to experience what we create.
+              Be among the first 250 to experience what we create.
               Periodic updates only. First access when we launch.
             </p>
             {/* Waitlister Form Embed */}
             <div className="waitlister-form" data-waitlist-key="D4UvmXA4pbmB" data-height="149px"></div>
-            <p className="text-sm text-slate-400 mt-4">First 500 spots only</p>
+            <p className="text-sm text-slate-400 mt-4">First 250 spots only</p>
           </div>
         </div>
 
         <div className="text-center space-y-2 text-slate-400">
-          <p>Shaping the solution with 50 founding advisors</p>
+          {\* <p>Shaping the solution with 25 founding advisors</p> *\}
         </div>
       </div>
     </section>

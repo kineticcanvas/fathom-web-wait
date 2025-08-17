@@ -28,8 +28,8 @@ export default function HeroSection() {
         <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 mb-8 flex items-start">
           <AlertCircle className="w-5 h-5 text-amber-600 mr-3 mt-0.5 flex-shrink-0" />
           <div className="text-sm text-slate-700">
-            <span className="font-semibold">Limited early access:</span> Only 50 founding advisor spots.
-            First 500 on the waitlist get exclusive October access.
+            <span className="font-semibold">Limited early access:</span> Only 25 founding advisor spots.
+            First 250 on the waitlist get exclusive October access.
           </div>
         </div>
 
