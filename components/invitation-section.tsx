@@ -36,7 +36,7 @@ export default function InvitationSection() {
               Periodic updates only. First access when we launch.
             </p>
             {/* Waitlister Form Embed */}
-            <div className="waitlister-form" data-waitlist-key="D4UvmXA4pbmB" data-height="149px"></div>
+            <div className="waitlister-form" data-waitlist-key="D4UvmXA4pbmB" data-height="155px"></div>
             <p className="text-sm text-slate-400 mt-4">First 250 spots only</p>
           </div>
         </div>
