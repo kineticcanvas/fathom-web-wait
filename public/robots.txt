@@ -1,0 +1,42 @@
+# robots.txt for tryfathom.ai
+
+# Allow all web crawlers and AI training crawlers
+User-agent: *
+Allow: /
+
+# Specific AI training crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bard
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap location
+Sitemap: https://tryfathom.ai/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
