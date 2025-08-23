@@ -9,18 +9,18 @@ export default function HeroSection() {
       <div className="max-w-4xl mx-auto">
         <div className="space-y-6 mb-12">
           <p className="text-3xl md:text-4xl lg:text-5xl font-light text-slate-900 leading-tight">
-            Your client's competitor just raised <span className="font-mono font-semibold text-cyan-600">£50M</span>.
+            Your client&apos;s competitor just raised <span className="font-mono font-semibold text-cyan-600">£50M</span>.
           </p>
           <p className="text-3xl md:text-4xl lg:text-5xl font-light text-slate-900 leading-tight">
             Their industry regulations changed <span className="font-mono font-semibold text-cyan-600">yesterday</span>.
           </p>
           <p className="text-3xl md:text-4xl lg:text-5xl font-light text-slate-900 leading-tight">
-            Your client already knows.<br /> <span className="font-mono font-semibold text-cyan-600">You don't.</span>
+            Your client already knows.<br /> <span className="font-mono font-semibold text-cyan-600">You don&apos;t.</span>
           </p>
         </div>
 
         <p className="text-xl text-slate-700 mb-8 max-w-2xl">
-          We're building the intelligence layer that surfaces what's actually impacting your clients.
+          We&apos;re building the intelligence layer that surfaces what&apos;s actually impacting your clients.
           Every signal that creates an opportunity for conversation.
         </p>
 

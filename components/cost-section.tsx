@@ -19,7 +19,7 @@ export default function CostSection() {
           ))}
         </div>
         <p className="mt-12 text-xl text-amber-400">
-          Every day you're late costs you credibility.
+          Every day you&apos;re late costs you credibility.
         </p>
       </div>
     </section>

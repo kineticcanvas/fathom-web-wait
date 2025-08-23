@@ -11,7 +11,7 @@ export default function QuestionSection() {
         </div>
         <div className="mt-12 p-8 bg-amber-50 rounded-xl border border-amber-200">
           <p className="text-lg text-slate-800">
-            We're asking the consultants who live this problem to help design the answer.
+            We&apos;re asking the consultants who live this problem to help design the answer.
           </p>
         </div>
       </div>

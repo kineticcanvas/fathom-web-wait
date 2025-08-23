@@ -44,13 +44,13 @@ export default function ValidationSection() {
               className={`border-l-4 border-amber-500 pl-6 py-4 bg-slate-50 rounded-r-lg transition-all duration-600 ${isVisible[index] ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-5'
                 }`}
             >
-              <p className="text-lg text-slate-700 mb-2">"{testimonial.quote}"</p>
+              <p className="text-lg text-slate-700 mb-2">&ldquo;{testimonial.quote}&rdquo;</p>
               <cite className="text-sm text-slate-500">— {testimonial.source}</cite>
             </blockquote>
           ))}
         </div>
         <p className="mt-12 text-2xl text-slate-900 text-center font-light">
-          You're not alone in this.
+          You&apos;re not alone in this.
         </p>
       </div>
     </section>

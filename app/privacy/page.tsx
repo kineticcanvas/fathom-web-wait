@@ -83,7 +83,7 @@ export default function PrivacyPage() {
             <ul className="list-disc pl-6 space-y-2 text-slate-700">
               <li>Access your personal data</li>
               <li>Rectify inaccurate data</li>
-              <li>Request erasure ("right to be forgotten")</li>
+              <li>Request erasure (&ldquo;right to be forgotten&rdquo;)</li>
               <li>Restrict processing</li>
               <li>Data portability</li>
               <li>Object to processing</li>
@@ -134,7 +134,7 @@ export default function PrivacyPage() {
               </a>
             </p>
             <p className="text-slate-700">
-              You have the right to lodge a complaint with the Information Commissioner's Office (ICO):{' '}
+              You have the right to lodge a complaint with the Information Commissioner&apos;s Office (ICO):{' '}
               <a href="https://ico.org.uk" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
                 ico.org.uk
               </a>
